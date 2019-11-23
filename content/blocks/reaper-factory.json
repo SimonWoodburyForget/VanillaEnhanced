@@ -4,22 +4,23 @@
 	"type": "UnitFactory",
 	"unitType": "reaper",
 	"size": 2,
+	"maxSpawn": 100,
 	"produceTime": 350,
 	"consumes": {
 		"power": 0.5,
 		"items": {
 			"items": [
-				{"item": "silicon", "amount": 50},
-				{"item": "titanium", "amount": 50}
+				{"item": "silicon", "amount": 75},
+				{"item": "titanium", "amount": 75}
 			]
 		}
 	},
 	"category": "units",
 	"research": "revenant-factory",
 	"requirements": [
-		{ "item": "lead", "amount": 200 },
-        { "item": "titanium", "amount": 200 },
+		{ "item": "lead", "amount": 500 },
+        { "item": "titanium", "amount": 500 },
         { "item": "silicon", "amount": 250 },
-        { "item": "surge-alloy", "amount": 40 }
+        { "item": "surge-alloy", "amount": 100 }
 	]
 }
