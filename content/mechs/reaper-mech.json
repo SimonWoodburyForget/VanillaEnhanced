@@ -1,12 +1,12 @@
 {
 	"name": "Reaper",
 	"description": "Transforms into an enhanced Reaper.",
-	"speed": 0.75,
+	"speed": 0.4,
 	"drillPower": 5,
 	"mineSpeed": 2,
 	"hitsize": 20,
 	"mass": 15,
-	"drag": 0.05,
+	"drag": 0.1,
 	"itemCapacity": 150,
 	"buildPower": 2,
 	"engineColor": "666495",
@@ -18,7 +18,7 @@
 	"weapon": {
 		"name": "reaper-gun",
 		"length": 40,
-		"reload": 10,
+		"reload": 20,
 		"alternate": true,
 		"shootSound": "shootBig",
 		"bullet": "standardThoriumBig"
