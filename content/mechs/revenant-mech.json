@@ -1,6 +1,6 @@
 {
 	"name": "Revenant",
-	"description": "A powerful Revenant.",
+	"description": "A powerful Revenant unit. Well equipped with missiles and high maneuverability.",
 	"speed": 0.8,
 	"drillPower": 5,
 	"mineSpeed": 2,
@@ -17,8 +17,8 @@
 	"weaponOffsetX": 4,
 	"weapon": {
 		"name": "revenant-missiles",
-		"length": 3,
-		"reload": 25,
+		"length": 5,
+		"reload": 15,
 		"alternate": true,
 		"shootSound": "missile",
 		"bullet": "missileRevenant"
