@@ -1,0 +1,28 @@
+{
+	"name": "Eradicator",
+	"description": "A powerful Eradicator.",
+	"speed": 0.15,
+	"drillPower": 2,
+	"mineSpeed": 2,
+	"maxVelocity": 0.68,
+	"drag": 0.4,
+	"hitsize": 20,
+	"mass": 5,
+	"boostSpeed": 0.68,
+	"itemCapacity": 100,
+	"buildPower": 1.0,
+	"engineColor": "666495",
+	"flying": false,
+	"health": 9000,
+	"weaponOffsetX": 4,
+	"weapon": {
+		"name": "eradication",
+		"length": 13,
+		"width": 22,
+		"reload": 30,
+		"alternate": true,
+		"shots": 4,
+		"shootSound": "missile",
+		"bullet": "standardThoriumBig"
+	}
+}
