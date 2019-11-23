@@ -1,0 +1,16 @@
+{
+	"name": "Reaper Mech Pad",
+	"description": "Transform into the Reaper mech.",
+	"type": "MechPad",
+	"mech": "reaper-mech",
+	"size": 2,
+	"consumes": {
+		"power": 0.7
+	},
+	"category": "upgrade",
+	"research": "wraith-factory",
+	"requirements": [
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "graphite", "amount": 50 },
+	]
+}

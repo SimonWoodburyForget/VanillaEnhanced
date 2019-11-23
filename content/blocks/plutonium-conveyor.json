@@ -1,0 +1,14 @@
+{
+	"type": "Conveyor",
+	"name": "Plutonium Conveyor",
+	"description": "The ultimate conveyor, made of Plutonium",
+	"health": 250,
+	"requirements": [
+		{"item": "copper", "amount": 1},
+		{"item": "lead", "amount": 1},
+		{"item": "plutonium", "amount": 1}
+	],
+	"category": "distribution",
+	"speed": 0.20
+	"research": "armored-conveyor"
+}

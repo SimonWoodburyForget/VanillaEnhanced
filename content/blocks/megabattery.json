@@ -1,0 +1,15 @@
+{
+	"type": "battery",
+	"name": "Mega Battery",
+	"size": 4,
+	"health": 12000,
+	"category": "power",
+	"requirements": [
+		{"item": "lead", "amount": 80},
+		{"item": "titanium", "amount": 50},
+		{"item": "silicon", "amount": 50},
+		{"item": "surge-alloy", "amount": 50}
+	],
+	"consumes": { "powerBuffered": 500000 }
+	"research": "battery-large"
+}
