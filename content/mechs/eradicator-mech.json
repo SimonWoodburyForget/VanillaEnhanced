@@ -13,7 +13,6 @@
 	"engineColor": "666495",
 	"flying": false,
 	"health": 9000,
-	"weaponOffsetX": 0,
 	"weapon": {
 		"name": "eradication",
 		"length": 13,

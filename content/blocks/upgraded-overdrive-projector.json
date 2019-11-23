@@ -1,0 +1,15 @@
+{
+    "type": "OverdriveProjector",
+    "name": "Upgraded Overdrive Projector",
+    "size": 2,
+    "health": 200,
+    "category": "effect",
+    "requirements": [
+        {"item": "lead", "amount": 200},
+        {"item": "titanium", "amount": 150},
+        {"item": "silicon", "amount": 125},
+        {"item": "plastanium", "amount": 50}
+    ],
+    "consumes": {"power": 5},
+    "research": "overdrive-projector"
+}
