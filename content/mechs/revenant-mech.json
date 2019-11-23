@@ -13,6 +13,7 @@
 	"flying": true,
 	"rotateWeapon": true,
 	"engineSize": 3,
+	"engineOffset": 12,
 	"health": 1000,
 	"weaponOffsetX": 4,
 	"weapon": {
