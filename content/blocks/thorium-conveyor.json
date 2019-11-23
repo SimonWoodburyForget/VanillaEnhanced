@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
-	"name": "Plutonium Conveyor",
-	"description": "The ultimate conveyor, made of Plutonium",
+	"name": "Thorium Conveyor",
+	"description": "The ultimate conveyor, made of Thorium",
 	"health": 250,
 	"requirements": [
 		{"item": "copper", "amount": 1},
