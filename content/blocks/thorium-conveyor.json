@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
 	"name": "Thorium Conveyor",
-	"description": "The ultimate conveyor, made of Thorium",
+	"description": "A really fast conveyor made with Thorium.",
 	"health": 250,
 	"requirements": [
 		{"item": "copper", "amount": 1},
