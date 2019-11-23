@@ -1,0 +1,26 @@
+{
+	"name": "Revenant",
+	"description": "A powerful Revenant.",
+	"speed": 0.8,
+	"drillPower": 5,
+	"mineSpeed": 2,
+	"hitsize": 20,
+	"mass": 5,
+	"drag": 0.05,
+	"itemCapacity": 100,
+	"buildPower": 5.0,
+	"engineColor": "666495",
+	"flying": true,
+	"rotateWeapon": true,
+	"engineSize": 3,
+	"health": 1000,
+	"weaponOffsetX": 4,
+	"weapon": {
+		"name": "revenant-missiles",
+		"length": 3,
+		"reload": 25,
+		"alternate": true,
+		"shootSound": "missile",
+		"bullet": "missileRevenant"
+	}
+}
