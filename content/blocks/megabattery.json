@@ -10,6 +10,6 @@
 		{"item": "silicon", "amount": 50},
 		{"item": "surge-alloy", "amount": 50}
 	],
-	"consumes": { "powerBuffered": 500000 }
+	"consumes": { "powerBuffered": 500000 },
 	"research": "battery-large"
 }

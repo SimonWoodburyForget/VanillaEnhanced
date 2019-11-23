@@ -9,6 +9,6 @@
 		{"item": "plutonium", "amount": 1}
 	],
 	"category": "distribution",
-	"speed": 0.20
+	"speed": 0.20,
 	"research": "armored-conveyor"
 }

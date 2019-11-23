@@ -11,6 +11,6 @@
 	"research": "wraith-factory",
 	"requirements": [
 		{ "item": "silicon", "amount": 40 },
-		{ "item": "graphite", "amount": 50 },
+		{ "item": "graphite", "amount": 50 }
 	]
 }
