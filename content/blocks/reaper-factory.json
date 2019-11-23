@@ -1,0 +1,25 @@
+{
+	"name": "Reaper Factory",
+	"description": "Makes goddamn Reapers.",
+	"type": "UnitFactory",
+	"unitType": "reaper",
+	"size": 2,
+	"produceTime": 350,
+	"consumes": {
+		"power": 0.5,
+		"items": {
+			"items": [
+				{"item": "silicon", "amount": 50},
+				{"item": "titanium", "amount": 50}
+			]
+		}
+	},
+	"category": "units",
+	"research": "revenant-factory",
+	"requirements": [
+		{ "item": "lead", "amount": 200 },
+        { "item": "titanium", "amount": 200 },
+        { "item": "silicon", "amount": 250 },
+        { "item": "surge-alloy", "amount": 40 }
+	]
+}
