@@ -15,8 +15,12 @@
         {"item": "plastanium", "amount": 50}
     ],
     "consumes": {
-        "power": 5,
-        "items": {"item": "phase-fabric", "amount": 1, "booster": true}
-    },
+		"power": 5,
+		"items": {
+			"items": [
+				{"item": "phase-fabric", "booster": true}
+			]
+		}
+	},
     "research": "overdrive-projector"
 }
