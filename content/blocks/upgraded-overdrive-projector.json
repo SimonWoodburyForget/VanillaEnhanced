@@ -8,9 +8,7 @@
     "phaseRangeBoost": 30,
     "speedBoostPhase": 1,
     "category": "effect",
-    "consumes": [
-        {"power": 5}
-    ],
+    "consumes": {"power": 5},
     "requirements": [
         {"item": "lead", "amount": 200},
         {"item": "titanium", "amount": 150},
