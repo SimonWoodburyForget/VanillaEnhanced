@@ -12,10 +12,10 @@
     "powerUse": 1.5,
     "targetAir": true,
     "range": 90,
-    "shootEffect": "Fx.lightningShoot",
+    "shootEffect": "lightningShoot",
     "heatColor": "Color.red",
     "recoil": 1,
-    "shootSound": "Sounds.spark",
+    "shootSound": "spark",
     "requirements": [
         {"item": "copper", "amount": 35},
         {"item": "lead", "amount": 50}
