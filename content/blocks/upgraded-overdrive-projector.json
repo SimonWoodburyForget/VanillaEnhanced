@@ -16,7 +16,7 @@
     ],
     "consumes": [
         {"power": 5},
-        {"item": "phase-fabric", "booster": true}
+        {"item": "phase-fabric", "amount": 1, "booster": true}
     ],
     "research": "overdrive-projector"
 }
