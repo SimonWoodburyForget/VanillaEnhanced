@@ -1,7 +1,13 @@
 # MoreStuff
 
-1) This is a mod that adds a few things for Mindustry.
-2) *No new items are added.*
-3) **In development.**
+This mod adds a few things to enhance the Vanilla experience.
+*Still in development*
 
-> **HolyHades, v1nce.**
+**Content:**
+*Revenant, Eradicator and Reaper Mechs
+*Thorium, Plastanium and Surge Alloy Conveyors
+*A larger Battery
+*A Titanium Drill (can mine every ore, but is slow)
+*An Upgraded and more expensive Overdrive Projector
+
+> **Made by HolyHades, v1nce.**
