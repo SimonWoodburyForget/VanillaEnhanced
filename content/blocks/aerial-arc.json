@@ -16,6 +16,7 @@
     "heatColor": "Color.red",
     "recoil": 1,
     "shootSound": "spark",
+    "research": "arc",
     "requirements": [
         {"item": "copper", "amount": 35},
         {"item": "lead", "amount": 50}
