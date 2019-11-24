@@ -9,7 +9,6 @@
     "speedBoostPhase": 1,
     "category": "effect",
     "consumes": [
-        {"item": "phase-fabric", "booster": true},
         {"power": 5}
     ],
     "requirements": [
