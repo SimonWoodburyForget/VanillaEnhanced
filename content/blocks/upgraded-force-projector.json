@@ -1,8 +1,8 @@
 {
     "type": "ForceProjector",
     "name": "Upgraded Force Projector",
-    "size": 2,
-    "health": 200,
+    "size": 3,
+    "health": 360,
     "radius": 150,
     "speedBoost": 2,
     "phaseRangeBoost": 100,
