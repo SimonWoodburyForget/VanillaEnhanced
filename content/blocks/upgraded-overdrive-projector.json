@@ -3,6 +3,10 @@
     "name": "Upgraded Overdrive Projector",
     "size": 2,
     "health": 200,
+    "range": 120,
+    "speedBoost": 2,
+    "phaseRangeBoost": 30,
+    "speedBoostPhase": 1,
     "category": "effect",
     "requirements": [
         {"item": "lead", "amount": 200},
