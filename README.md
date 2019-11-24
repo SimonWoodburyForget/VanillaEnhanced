@@ -1,9 +1,10 @@
 # MoreStuff
 
-This mod adds a few things to enhance the Vanilla experience.
+This mod adds a few things to enhance the Vanilla experience.  
 *Still in development*
 
 **Content:**
+
 - Revenant, Eradicator and Reaper Mechs
 - Thorium, Plastanium and Surge Alloy Conveyors
 - A larger Battery
