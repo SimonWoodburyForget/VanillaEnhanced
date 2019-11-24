@@ -11,6 +11,7 @@
     "rotateSpeed": 20,
     "powerUse": 1.5,
     "targetAir": true,
+    "targetGround": false,
     "range": 90,
     "shootEffect": "lightningShoot",
     "heatColor": "Color.red",
