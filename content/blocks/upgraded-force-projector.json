@@ -1,0 +1,28 @@
+{
+    "type": "ForceProjector",
+    "name": "Upgraded Force Projector",
+    "size": 2,
+    "health": 200,
+    "radius": 150,
+    "speedBoost": 2,
+    "phaseRangeBoost": 100,
+    "speedBoostPhase": 1,
+    "breakage": 300,
+    "cooldownNormal": 1.2,
+    "cooldownLiquid": 1,
+    "category": "effect",
+    "requirements": [
+        {"item": "lead", "amount": 150},
+        {"item": "titanium", "amount": 10},
+        {"item": "silicon", "amount": 175}
+    ],
+    "consumes": {
+		"power": 3,
+		"items": {
+			"items": [ {"item": "phase-fabric", "amount": 1} ],
+			"booster": true,
+			"optional": true
+        }
+	},
+    "research": "force-projector"
+}
