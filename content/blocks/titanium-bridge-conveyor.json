@@ -1,5 +1,5 @@
 {
-    "type": "BufferedItemBridge",
+    "type": "ItemBridge",
     "name": "Titanium Bridge Conveyor",
     "description": "A better Bridge Conveyor",
     "health": 250,
@@ -9,8 +9,8 @@
         {"item": "titanium", "amount": "4"}
     ],
     "range": 8,
-    "speed": 100,
-    "bufferCapacity": 20,
+    "transportTime": 2,
+    "hasPower": false,
     "category": "distribution",
     "research": "bridge-conveyor"
 }
