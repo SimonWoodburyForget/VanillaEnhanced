@@ -9,7 +9,7 @@
         {"item": "titanium", "amount": "4"}
     ],
     "range": 8,
-    "transportTime": 2,
+    "transportTime": 4,
     "hasPower": false,
     "category": "distribution",
     "research": "bridge-conveyor"
